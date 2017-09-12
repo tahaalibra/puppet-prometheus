@@ -12,7 +12,7 @@
 #  [*server_type*]
 #  Specify target type master or slave
 #
-#  [*cnf_uri*]
+#  [*cnf_scrape_uri*]
 #  The URI to obtain mesos stats from
 #
 #  [*download_extension*]
